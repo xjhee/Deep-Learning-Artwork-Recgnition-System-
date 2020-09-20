@@ -1,4 +1,4 @@
-# Deep-Learning-Artwork-Recgnition-System-
+# Deep-Learning-Artwork-Recgnition-System-GPU
 ### Build an artwork recognition system using deep learning framework as TensorFlow and Keras
 
 * Preprocess 5-gb image datasets "data.csv", resize data and preprare for advance training, "processed_dataset.csv" 
